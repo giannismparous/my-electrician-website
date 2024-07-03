@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-electrician-website/static/css/main.c62b8f5d.css",
+    "main.js": "/my-electrician-website/static/js/main.3021fe56.js",
+    "static/js/453.92c4eb9d.chunk.js": "/my-electrician-website/static/js/453.92c4eb9d.chunk.js",
+    "static/media/electrician-working.jpg": "/my-electrician-website/static/media/electrician-working.7bb530a2a2161c0be667.jpg",
+    "index.html": "/my-electrician-website/index.html",
+    "main.c62b8f5d.css.map": "/my-electrician-website/static/css/main.c62b8f5d.css.map",
+    "main.3021fe56.js.map": "/my-electrician-website/static/js/main.3021fe56.js.map",
+    "453.92c4eb9d.chunk.js.map": "/my-electrician-website/static/js/453.92c4eb9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c62b8f5d.css",
+    "static/js/main.3021fe56.js"
+  ]
+}
