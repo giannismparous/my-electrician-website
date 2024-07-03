@@ -1,0 +1,23 @@
+/* src/components/Contact.css */
+.contact-form {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form .form-group {
+    margin-bottom: 1rem;
+}
+
+.contact-form .btn-primary {
+    background-color: #007bff;
+    border: none;
+}
+
+.contact-container {
+    height: 84vh !important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
